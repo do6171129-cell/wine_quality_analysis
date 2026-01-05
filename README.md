@@ -45,4 +45,13 @@ Jupyter Notebook を上から順に実行してください。
 └─ data/
    └─ winequality-red.csv
 ```
+## データについて
+
+本分析では、Kaggleで公開されているワイン品質データを使用しています。
+
+Data source:
+Wine Quality - Red Wine  
+https://www.kaggle.com/datasets/anairamcosta/winequality-red-csv  
+Provided via Kaggle (originally from UCI Machine Learning Repository)  
+Used for educational and analytical purposes.
 
